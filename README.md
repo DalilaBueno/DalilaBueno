@@ -7,11 +7,10 @@
 
 ## Conhecimentos e Habilidades
 
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/>  
+- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://blog.cronapp.io/wp-content/uploads/2020/08/metodo-agile.jpg" alt="Métodos Ágeis" width="50"/>
 
+- **MÉTODOS ÁGEIS:** Experiência em metodologias ágeis para o desenvolvimento de software.
 
-  
-- 🔄 **MÉTODOS ÁGEIS:** Experiência em metodologias ágeis para o desenvolvimento de software.
 
 ## Em Aprendizado
 
