@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 👨‍🎓 Atualmente cursando 5° semestre em **Análise e Desenvolvimento de Sistemas**.
+- 👨‍🎓 Atualmente Cursando 5° Semestre em **Análise e Desenvolvimento de Sistemas**.
 - 🏫 **FATEC FRANCA - DR. THOMAZ NOVELINO**.
 
 ## Hard Skills
