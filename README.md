@@ -11,7 +11,7 @@
 
 - **MODELAGEM DE BANCO DE DADOS:** Modelo Relacional, Algebra Relacional, MER para MR, Diretrizes de Projeto, Dependências Funcionais, Normalização.
 - **ENGENHARIA DE SOFTWARE:** SWOT, 5W2H, Viabilidade, Levantamento de Requisitos, BPMN, Requisitos Funcionais(RF), Requisitos Não Funcionais(RNF), Regras do Negócio, Casos de Uso, Diagrama de Classes, Diagrama de Atividades, Diagrama de Estados, Diagrama de Sequência, Matriz de Rastreabilidade.
-- **MÉTODOS ÁGEIS:** Experiência em metodologias ágeis para o desenvolvimento de software.
+- **MÉTODOS ÁGEIS:** Metodologias ágeis para o desenvolvimento de software.
 
 ## Soft Skills
 
