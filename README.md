@@ -10,7 +10,6 @@
 - <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://blog.cronapp.io/wp-content/uploads/2020/08/metodo-agile.jpg" alt="Métodos Ágeis" width="50"/>
 
 - **MODELAGEM DE BANCO DE DADOS:** Modelo Relacional, Algebra Relacional, MER para MR, Diretrizes de Projeto, Dependências Funcionais, Normalização.
-- **ENGENHARIA DE SOFTWARE:** SWOT, 5W2H, Viabilidade, Levantamento de Requisitos, BPMN, Requisitos Funcionais(RF), Requisitos Não Funcionais(RNF), Regras do Negócio, Casos de Uso, Diagrama de Classes, Diagrama de Atividades, Diagrama de Estados, Diagrama de Sequência, Matriz de Rastreabilidade.
 - **MÉTODOS ÁGEIS:** Metodologias ágeis para o desenvolvimento de software.
 
 ## Soft Skills
