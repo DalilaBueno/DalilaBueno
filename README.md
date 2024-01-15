@@ -1,9 +1,14 @@
-# Bem-vindo ao meu Perfil! 👋 
+
+<!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=pink&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Bem+Vindo+ao+Meu+Perfil+👋...;+Welcome+to+my+profile👋..." />
+</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 ## Sobre Mim
 
 - 👨‍🎓 Atualmente Cursando 5° Semestre em **Análise e Desenvolvimento de Sistemas**.
-- 🏫 **FATEC FRANCA - DR. THOMAZ NOVELINO**.
+- 🏫 **Fatec Franca - Dr. Thomas Novelino**.
 
 ## Hard Skills
 
@@ -22,7 +27,9 @@
 
 ## Em Aprendizado
 
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> ![Ícone do MySQL](https://img.icons8.com/office/48/000000/mysql.png)
+
+
 
 ## Entre em Contato
 
