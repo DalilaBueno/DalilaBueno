@@ -1,7 +1,7 @@
 
 <!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=pink&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Bem+Vindo+Ao+Meu+Perfil+👋...;+Welcome+to+my+profile👋..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=pink&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Bem+vindo+ao+meu+perfil+👋...;+Welcome+to+my+profile👋..." />
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
